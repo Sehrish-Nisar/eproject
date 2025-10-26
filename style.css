@@ -1,0 +1,26 @@
+.heading1{
+    text-align: center;
+}
+.card mb-3{
+    border: none;
+}
+.img1{
+    position: relative;
+    left: 130px;
+}
+.img2{
+    position: relative;
+    left: 110px;
+}
+.img3{
+    position: relative;
+    left: 145px;
+}
+.img4{
+    position: relative;
+    left: 120px;
+
+}
+.col-11{
+    margin-left: 130px;
+}
